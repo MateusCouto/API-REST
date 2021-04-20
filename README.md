@@ -6,6 +6,7 @@ IDE usada Eclipse <br />
 Banco de Dados MYSQL <br />
 Para acessar: http://localhost:8080/swagger-ui.html
 
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+[![Linkedin](https://img.shields.io/badge/-mateuscc-1E90FF?style=for-the-badgelogo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateuscc/)](https://www.linkedin.com/in/mateuscc/)
+
 
 
